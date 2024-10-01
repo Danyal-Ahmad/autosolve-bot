@@ -158,7 +158,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
    This `README.md` file is structured to provide clear guidance on installation, setup, and contributing to your project. It’s designed to be professional and informative, helping users easily understand how to work with AutoSolve AI.
 
-   ## Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/danyal-ahmaad)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/denial_khxn/)
