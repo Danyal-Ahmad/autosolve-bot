@@ -75,9 +75,7 @@ Before you begin, ensure you have the following installed:
   ```bash
     python train_model.py
   ```
-```plaintext
  Train and save the problem classifier model: Ensure you have trained your model and saved it as `problem_classifier.joblib` in the backend directory. *(Training code not provided in this repository)
- ```
 
 4. Run the FastAPI server:
     ```bash
