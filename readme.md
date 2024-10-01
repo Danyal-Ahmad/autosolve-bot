@@ -156,7 +156,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
     ```
 5. Create a pull request.
 
-   This `README.md` file is structured to provide clear guidance on installation, setup, and contributing to your project. It’s designed to be professional and informative, helping users easily understand how to work with AutoSolve AI.
+###
 
 ## Connect with Me
 
