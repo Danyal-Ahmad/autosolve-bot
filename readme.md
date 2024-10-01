@@ -157,3 +157,18 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 5. Create a pull request.
 
    This `README.md` file is structured to provide clear guidance on installation, setup, and contributing to your project. It’s designed to be professional and informative, helping users easily understand how to work with AutoSolve AI.
+
+   ## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/danyal-ahmaad)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/denial_khxn/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=white)](mailto:danyalahmaad.pjb@gmail.com)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/denial_khxn)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@DAG-coder)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/Daanyaal.78/)
+
+## Visitor Counter
+
+![visitor badge](https://visitor-badge.imlete.cn/?id=github.Danyal-Ahmad.autosolve-botleft_text=My%Repo%20Visitors)
+
+
