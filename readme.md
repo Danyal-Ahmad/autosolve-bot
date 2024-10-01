@@ -75,7 +75,7 @@ Before you begin, ensure you have the following installed:
     ```bash
     python train_model.py
     ```
- Train and save the problem classifier model: Ensure you have trained your model and saved it as `problem_classifier.joblib` in the backend directory. *(Training code not provided in this repository)
+  // Train and save the problem classifier model: Ensure you have trained your model and saved it as `problem_classifier.joblib` in the backend directory. *(Training code not provided in this repository)
 
 4. Run the FastAPI server:
     ```bash
@@ -155,4 +155,4 @@ Contributions are welcome! If you'd like to contribute, please follow these step
     ```
 5. Create a pull request.
 
-This `README.md` file is structured to provide clear guidance on installation, setup, and contributing to your project. It’s designed to be professional and informative, helping users easily understand how to work with AutoSolve AI.
+   This `README.md` file is structured to provide clear guidance on installation, setup, and contributing to your project. It’s designed to be professional and informative, helping users easily understand how to work with AutoSolve AI.
