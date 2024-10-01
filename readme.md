@@ -2,7 +2,8 @@
 
 AutoSolve AI is a powerful tool designed to solve a variety of problems using machine learning and AI techniques. It features a user-friendly interface, supports multiple problem types, and offers advanced functionalities to enhance your problem-solving experience.
 
-![AutoSolve AI Logo](path/to/your/logo.png)  <!-- Replace with your logo path -->
+![8d4f6edb-82fe-45e2-a8f5-214472448ed0 (1)](https://github.com/user-attachments/assets/a57723bc-022c-4902-9cf9-3d9a84405693)
+
 
 ## Table of Contents
 
